@@ -1,7 +1,7 @@
 # Hi there! :wave:
 I'm [Your Name], a software developer passionate about coding.
 ## Languages and Tools
-- ![Python](https://img.shields.io/badge/-Python-blue)
+- ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
 - ![HTML](https://img.shields.io/badge/-HTML-orange)
 - ![CSS](https://img.shields.io/badge/-CSS-blueviolet)
